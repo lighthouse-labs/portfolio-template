@@ -69,7 +69,7 @@ export default function Example() {
                     'block px-4 py-2 text-sm'
                   )}
                 >
-                  Contact Us
+                  Contact Me
                 </a>
               )}
             </Menu.Item>

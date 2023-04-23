@@ -10,7 +10,7 @@ const Header = () => {
      items-center px-5'>
       <p onClick={() => router.push("/")}
         className='text-2xl md:text-xl lg:text-2xl cursor-pointer
-       text-[rgb(251,247,245)]'>Blacksand</p>
+       text-[rgb(251,247,245)]'>Nathan Pare</p>
       <Dropdown />
     </div>
   );
